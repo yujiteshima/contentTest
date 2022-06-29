@@ -1,0 +1,12 @@
+name: Web Request
+on: push
+
+jobs:
+  build:
+    name: get request firebase cloud functions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: satak/webrequest-action@master
+        with:
+          url: https://us-central1-simple-git-test.cloudfunctions.net/helloWorld
+          method: GET
