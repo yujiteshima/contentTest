@@ -1,6 +1,6 @@
 ---
 title: 'Next.jsでmarkdownブログを表示する'
-date: '2021-08-17'
+date: '2021-08-11'
 description: 'Next.jsでmarkdownファイルを利用したブログの構築手順を解説しています。'
 image: nextjs-image.jpeg
 ---
