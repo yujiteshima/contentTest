@@ -3,6 +3,7 @@ title: 'Next.jsでmarkdownブログを表示する'
 date: '2021-08-15'
 description: 'Next.jsでmarkdownファイルを利用したブログの構築手順を解説しています。'
 image: nextjs-image.jpeg
+slug: 'sample_1'
 ---
 
 Next.js を使って Markdown のブログサイトの作成します。
