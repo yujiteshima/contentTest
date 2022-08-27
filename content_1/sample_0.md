@@ -4,6 +4,7 @@ date: '2022-08-19'
 description: 'Next.jsでmarkdownファイルを利用したブログの構築手順を解説しています。'
 image: nextjs.svg
 slug: "sample_0"
+categories: ['react']
 ---
 
 Next.js を使って Markdown のブログサイトの作成します。

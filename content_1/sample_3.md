@@ -4,6 +4,7 @@ date: '2022-05-15'
 description: 'Next.jsでmarkdownファイルを利用したブログの構築手順を解説しています。'
 image: github-octocat.svg
 slug: sample_3
+categories: ['nextjs']
 ---
 
 Next.js を使って Markdown のブログサイトの作成します。

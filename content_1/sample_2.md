@@ -4,6 +4,7 @@ date: '2022-07-17'
 description: 'Next.jsでmarkdownファイルを利用したブログの構築手順を解説しています。'
 image: bun.svg
 slug: 'sample_2'
+categories: ['nextjs']
 ---
 
 <!-- ## Table of Contents -->
