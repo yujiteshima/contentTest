@@ -5,6 +5,8 @@ description: 'Next.jsでmarkdownファイルを利用したブログの構築手
 image: nextjs.svg
 slug: "sample_0"
 categories: ['react']
+blogType: 'myblog'
+url: ''
 ---
 
 Next.js を使って Markdown のブログサイトの作成します。

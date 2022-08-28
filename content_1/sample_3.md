@@ -5,6 +5,8 @@ description: 'Next.jsでmarkdownファイルを利用したブログの構築手
 image: github-octocat.svg
 slug: sample_3
 categories: ['nextjs']
+blogType: 'myblog'
+url: ''
 ---
 
 Next.js を使って Markdown のブログサイトの作成します。

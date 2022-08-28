@@ -5,6 +5,8 @@ description: 'Next.jsでmarkdownファイルを利用したブログの構築手
 image: firebase.svg
 slug: 'sample_1'
 categories: ['react']
+blogType: 'myblog'
+url: ''
 ---
 
 Next.js を使って Markdown のブログサイトの作成します。

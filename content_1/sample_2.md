@@ -5,6 +5,8 @@ description: 'Next.jsでmarkdownファイルを利用したブログの構築手
 image: bun.svg
 slug: 'sample_2'
 categories: ['nextjs']
+blogType: 'myblog'
+url: ''
 ---
 
 <!-- ## Table of Contents -->

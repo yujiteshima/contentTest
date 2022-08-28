@@ -5,6 +5,8 @@ description: 'Next.jsでmarkdownファイルを利用したブログの構築手
 image: gopher.svg
 slug: 'sample_4'
 categories: ['golang']
+blogType: 'myblog'
+url: ''
 ---
 
 Next.js を使って Markdown のブログサイトの作成します。
