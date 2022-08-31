@@ -8,3 +8,8 @@ tags:
 ---
 
 これはsimple-gitのテスト用です。
+```js:index.js
+const hello = () => {
+    console.log("hello");
+}
+```
