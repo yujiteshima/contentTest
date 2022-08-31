@@ -1,9 +1,9 @@
 ---
 title: 'Next.jsでmarkdownブログを表示する'
-date: '2022-06-15'
+date: '2018-10-15'
 description: 'Next.jsでmarkdownファイルを利用したブログの構築手順を解説しています。'
 image: gopher.svg
-slug: 'sample_4'
+slug: 'sample_5'
 categories: ['golang']
 blogType: 'myblog'
 url: ''
