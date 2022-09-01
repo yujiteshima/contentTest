@@ -36,3 +36,50 @@ const hello = () => {
   - [ ] bar
   - [x] baz
 - [ ] bim
+
+| abc | defghi |
+:-: | -----------:
+bar | baz
+
+> - foo
+- bar
+
+|  TH  |  TH  |
+| ---- | ---- |
+|  TD  |  TD  |
+|  TD  |  TD  |
+
+| TH 左寄せ | TH 中央寄せ | TH 右寄せ |
+| :--- | :---: | ---: |
+| TD | TD | TD |
+| TD | TD | TD |
+
+www.commonmark.org
+
+Visit www.commonmark.org/help for more information.
+
+www.google.com/search?q=Markup+(business)
+
+www.google.com/search?q=Markup+(business)))
+
+(www.google.com/search?q=Markup+(business))
+
+(www.google.com/search?q=Markup+(business)
+
+1. foo
+2. bar
+3) baz
+
+- foo
+- bar
++ baz
+
+
+Foo
+- bar
+- baz
+
+- [ ] foo
+- [x] bar
+
+
