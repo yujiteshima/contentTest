@@ -19,7 +19,7 @@ APIを叩くと用意されたjsonファイルを取得できるAPIを作成し�
 データを取得できるところまでは見てみたいです。
 
 ### コードブロックの見え方を確認したいです。
-```js
+```ts:src/index.ts
 import * as functions from "firebase-functions";
 import * as admin from "firebase-admin";
 import * as fs from "fs";
